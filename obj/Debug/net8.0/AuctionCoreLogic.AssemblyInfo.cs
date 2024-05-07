@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuctionCoreLogic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83399ab5a5e5eb54600761b60fd77e3ff44274f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1766a036fcd00d2439e747e7c2097961a824f66")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuctionCoreLogic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuctionCoreLogic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
